@@ -14,3 +14,4 @@
 ![image](https://github.com/Chico777/Spring-boot/blob/master/img/5.png)  
 ![image](https://github.com/Chico777/Spring-boot/blob/master/img/6.png)  
 数据库设置  
+![image](https://github.com/Chico777/Spring-boot/blob/master/img/7.png)  
