@@ -4,4 +4,10 @@
 
 
 
-![image](https://github.com/Chico777/Spring-boot/blob/master/img/T0DX7IMEPF6O%5D%24%5DKG7%24X(%60N.png)
+![image](https://github.com/Chico777/Spring-boot/blob/master/img/1.png)
+![image](https://github.com/Chico777/Spring-boot/blob/master/img/2.png)
+![image](https://github.com/Chico777/Spring-boot/blob/master/img/3.png)
+![image](https://github.com/Chico777/Spring-boot/blob/master/img/4.png)
+![image](https://github.com/Chico777/Spring-boot/blob/master/img/5.png)
+![image](https://github.com/Chico777/Spring-boot/blob/master/img/6.png)
+
